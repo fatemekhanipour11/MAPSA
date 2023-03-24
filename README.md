@@ -1,0 +1,2 @@
+# MAPSA
+Nowruz Mapsa exercises
