@@ -1,2 +1,2 @@
-# MAPSA
+# DeepLearning
 Nowruz Mapsa exercises
